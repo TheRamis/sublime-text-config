@@ -6,18 +6,11 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"API Blueprint",
-		"Boxy Theme",
-		"Boxy Theme Addon - Font Face",
 		"BracketHighlighter",
 		"EditorConfig",
+		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
-		"PowerShell",
-		"Skins",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint"
+		"PowerShell"
 	]
 }
